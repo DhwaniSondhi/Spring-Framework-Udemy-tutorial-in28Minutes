@@ -12,6 +12,7 @@ This repository includes the Spring framework basics learned through tutorial cr
 - Spring Boot
 - Spring JDBC and JPA
 - Spring AOP
+- Spring MVC
 - Hibernate
 - JUnit & Mockito
 
