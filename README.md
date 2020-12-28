@@ -1,7 +1,7 @@
 ## Spring Framework tutorial in28Minutes
-This repository includes the Spring framework basics learned through tutorial created by in28Minutes.
+This repository includes the Spring framework basics learned through tutorials created by in28Minutes.
 
-### Prerequites
+### Prerequisites
 - Java 8
 - Eclipse IDE
 - GIT
